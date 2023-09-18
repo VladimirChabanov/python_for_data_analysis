@@ -4,7 +4,7 @@
 
 ### Практика 1. Решение простейших задач [[colab]](https://colab.research.google.com/drive/1XWIrni0VFNPTUwt1093bqq5VvHqEODqE?usp=sharing) [[ipynb]](./practice01_tasks.ipynb) [[контест]](https://contest.yandex.ru/contest/51908/enter/) 
 
-### Практика 2. 
+### Практика 2. Решение простейших задач [[colab]](https://colab.research.google.com/drive/1XWIrni0VFNPTUwt1093bqq5VvHqEODqE?usp=sharing) [ipynb] [[контест]](https://contest.yandex.ru/contest/52596/enter/) 
 
 ### Практика 3. 
 
@@ -17,3 +17,7 @@
 ### Практика 7. 
 
 ### Практика 8. 
+
+<br>
+
+Для доступа к практическим заданиям: [заполните форму](https://docs.google.com/forms/d/e/1FAIpQLSeyRzI2G2QtSQbL31dUmPAcywf2MNzrdQ8e6Tl2p7k6tkjpRA/viewform?usp=sf_link);
