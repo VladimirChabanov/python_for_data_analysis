@@ -8,7 +8,7 @@
 
 ### Практика 3. Решение задач с применением numpy [[colab]](https://colab.research.google.com/drive/1nLmfKDPF2IdKcIYtdSbLoXhOlZio2uRP?usp=sharing) [ipynb] [[контест]](https://contest.yandex.ru/contest/52916/enter/) 
 
-### Практика 4. Решение задач с применением matplotlib [[colab]](https://colab.research.google.com/drive/1iJXXG7LXNksOtr0TryVyvtZEoGQjElyK?usp=sharing) [ipynb] [контест]
+### Практика 4. Решение задач с применением matplotlib [[colab]](https://colab.research.google.com/drive/1iJXXG7LXNksOtr0TryVyvtZEoGQjElyK?usp=sharing) [ipynb] [[контест]](https://contest.yandex.ru/contest/53879/enter/) 
 
 ### Практика 5. 
 
