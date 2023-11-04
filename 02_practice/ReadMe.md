@@ -10,13 +10,9 @@
 
 ### Практика 4. Решение задач с применением matplotlib [[colab]](https://colab.research.google.com/drive/1iJXXG7LXNksOtr0TryVyvtZEoGQjElyK?usp=sharing) [ipynb] [[контест]](https://contest.yandex.ru/contest/53879/enter/) 
 
-### Практика 5. 
+<br>
 
-### Практика 6. 
-
-### Практика 7. 
-
-### Практика 8. 
+### Пересдача. [[контест]](https://contest.yandex.ru/contest/55362/problems/)
 
 <br>
 
